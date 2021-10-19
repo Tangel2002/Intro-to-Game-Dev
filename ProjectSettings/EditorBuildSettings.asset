@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MovementTest.unity
+    guid: e29593e453ef4e7468fd1ffc2951099e
+  - enabled: 1
+    path: Assets/Scenes/Bounce.unity
+    guid: 13361f4ff8fca514d913b4b8d76ed404
   m_configObjects: {}
